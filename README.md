@@ -12,7 +12,7 @@ Spotstash ist eine App zum Speichern, Organisieren und Wiederfinden von Orten. D
 
 ---
 
-## Introduction (FR - Suisse / Romandie)
+## Introduction (FR)
 Spotstash est une application pour enregistrer, organiser et retrouver vos lieux. Vous pouvez sauvegarder des endroits, les classer, les organiser dans des dossiers et les retrouver rapidement. L’app vous aide aussi à ne pas oublier des lieux importants comme votre parking ou des endroits découverts en voyage.
 
 ---
@@ -22,7 +22,7 @@ Spotstash es una aplicación para guardar, organizar y encontrar lugares. Puedes
 
 ---
 
-## Introduction (PT-BR)
+## Introduction (PT)
 Spotstash é um aplicativo para salvar, organizar e encontrar lugares. Você pode salvar locais, organizá-los em categorias e pastas, e encontrá-los rapidamente. O app também ajuda você a não esquecer lugares importantes como onde estacionou o carro ou lugares que descobriu.
 
 ---
